@@ -1,3 +1,3 @@
 Welcome to my project..........
-Author: Rajesh
+Author: Rajesh Rangdal
 Twitter: @Rajesh360
